@@ -25,3 +25,5 @@ Een applicatie ontwikkelen voor het verkopen en kopen van e-tickets van evenemen
 	•	Ruby
 	•	Javascript
 	•	IOS
+
+<img src="https://f.cloud.github.com/assets/5379786/1134757/e896f914-1bf9-11e3-820b-521f8515e03f.jpg" alt="mockup">
