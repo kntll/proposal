@@ -24,3 +24,4 @@ Met de applicatie zal een gebruiker zich kunnen aanmelden voor vakken aan de UvA
 	•	JavaScript
 
 
+<img src= "https://f.cloud.github.com/assets/5379786/1147696/e4480280-1eac-11e3-8117-02a2e4717e0f.jpg">
