@@ -1,7 +1,7 @@
 proposal
 Lars Knitel
 
-##Title: UvA Courses
+##UvA Courses
 
 Met de applicatie zal een gebruiker zich kunnen aanmelden voor vakken aan de UvA. 
 
