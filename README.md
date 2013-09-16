@@ -14,7 +14,7 @@ Met de applicatie zal een gebruiker zich kunnen aanmelden voor vakken aan de UvA
 	•	Gebruikers kunnen hun vakken die ze willen volgen opslaan en bekijken. (Courses I'm Shopping, en Courses I'm Taking. 
 	•	De gebruikers kunnen recent bekeken vakken opnieuw bezoeken via een categorie 'Recently Viewed'. 
 
-**Frameworks**, languages, libraries and other technologies:
+**Frameworks, languages, libraries and other technologies**:
 	•	Bootstrap 
 	•	cocoacontrols
 	•	nimbuskit
