@@ -30,6 +30,7 @@
 ##Classes
 
 class CourseController
+
 	def save
 		@course = Course.find(params[:id]
 	end
@@ -52,6 +53,7 @@ class CourseController
 	end
 
 class CourseSearch
+
 	def search
 		@course = Couse.search(params[:id])
 	end
@@ -65,11 +67,13 @@ class CourseSearch
   end
   
 Class Staff
+
 	def show
 		@staff = Staff.find([params[:id])	
 	end
 
 Class Programmes 
+
 	def show
 		@programmes = Programme.find(params[:id])
 	end
