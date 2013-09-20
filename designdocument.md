@@ -1,10 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+<head></head>
+<body>
+
 #Database tables: Users, courses, staff and programmes
 
 **Users includes**
-| id |	INT |
+
+<table>
+<td> id </td> 	INT |
 |-----|:-----:|
 | Courses_Shopping	|	INT (courses_id) |
 Courses_taking	 |	INT (courses_id) |
+
+</table>
 
 **Courses**
 	•	id			INT
@@ -79,4 +89,5 @@ class Programmes
 		@programmes = Programme.find(params[:id])
 	end
 
-
+	</body>
+</html>
