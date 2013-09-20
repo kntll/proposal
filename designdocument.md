@@ -12,8 +12,12 @@
 	<tr>
 		<td> id </td> 	<td> INT </td>
 	</tr>
-	<tr> Courses_Shopping </td> <td> INT (courses_id) </td>
-Courses_taking	 |	INT (courses_id) |
+	<tr> 
+		<td> Courses-Shopping </td> <td> INT (courses_id) </td>
+	</tr>
+	<tr>	
+		<td>Courses-taking </td><td>INT (courses-id)</td>
+	</tr>
 
 </table>
 
