@@ -16,7 +16,7 @@
 		<td>Courses-Shopping</td> <td> INT (courses_id) </td>
 	</tr>
 	<tr>	
-		<td>Courses-taking </td><td>INT (courses-id)</td>
+		<td>Courses-taking</td><td>INT (courses-id)</td>
 	</tr>
 
 </table>
@@ -31,7 +31,7 @@
 		<td>name</td><td>VARCHAR</td>
 	</tr>
 	<tr>
-		<td>catalog_number</td>	<td>VARCHAR</td>
+		<td>catalog_number</td><td>VARCHAR</td>
 	</tr>
 	<tr>	
 		<td>institute</td><td>VARCHAR</td>
