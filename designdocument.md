@@ -22,6 +22,7 @@
 </table>
 
 **Courses**
+
 <table>
 	<tr>
 		<td> id</td><td>INT</td>
