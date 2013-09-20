@@ -13,7 +13,7 @@
 		<td> id </td> 	<td> INT </td>
 	</tr>
 	<tr> 
-		<td> Courses-Shopping </td> <td> INT (courses_id) </td>
+		<td>Courses-Shopping</td> <td> INT (courses_id) </td>
 	</tr>
 	<tr>	
 		<td>Courses-taking </td><td>INT (courses-id)</td>
@@ -22,15 +22,36 @@
 </table>
 
 **Courses**
-	•	id			INT
-	•	name	 		VARCHAR
-	•	catalog_number	VARCHAR
-	•	institute		VARCHAR
-	•	credits			INT
-	•	description		TEXT
-	•	staff			INT (staff_id)
-	•	programmes		INT (programme_id)
-	•	restriction		TEXT
+<table>
+	<tr>
+		<td> id</td><td>INT</td>
+	</tr>
+	<tr>	
+		<td>name</td><td>VARCHAR</td>
+	</tr>
+	<tr>
+		<td>catalog_number</td>	<td>VARCHAR</td>
+	</tr>
+	<tr>	
+		<td>institute</td><td>VARCHAR</td>
+	</tr>
+	<tr>
+		<td>credits</td><td>INT</td>
+	</tr>
+	<tr>
+		<td>description</td><td>TEXT</td>
+	</tr>
+	<tr>
+		<td>staff</td><td>INT (staff_id)</td>
+	</tr>
+	<tr>
+		<td>programmes</td>	<td>INT (programme_id)</td>
+	</tr>
+	<tr>
+		<td>restriction</td><td>TEXT</td>td>
+	</tr>
+</table>
+
 
 **Staff**
 	•	id		INT
