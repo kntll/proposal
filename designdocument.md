@@ -1,9 +1,9 @@
 #Database tables: Users, courses, staff and programmes
 
 **Users includes**
-	•	id	INT
-	•	Courses_Shopping		INT (courses_id)
-	•	Courses_taking		INT (courses_id)
+	•	| id |	INT
+	•	| Courses_Shopping	|	INT (courses_id) |
+	•	|	Courses_taking	 |	INT (courses_id) |
 
 **Courses**
 	•	id			INT
