@@ -1,7 +1,6 @@
 #Database tables: Users, courses, staff and programmes
 
 **Users includes**
-<ls>
 	•	id	INT
 	•	Courses_Shopping		INT (courses_id)
 	•	Courses_taking		INT (courses_id)
