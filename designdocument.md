@@ -4,7 +4,7 @@
 <head></head>
 <body>
 
-#Database tables: Users, courses, staff and programmes
+**Database tables:** Users, courses, staff and programmes
 
 **Users includes**
 
@@ -54,14 +54,32 @@
 
 
 **Staff**
-	•	id		INT
-	•	name VARCHAR
-	•	url		TEXT
+
+<table>
+	<tr>
+		<td>id</td><td>INT</td>
+	</tr>
+	<tr>
+		<td>name</td><td>VARCHAR</td>
+	</tr>
+	<tr>
+		<td>url</td><td>TEXT</td>
+	</tr>
+</table>
 
 **Programmes**
-	•	id		INT
-	•	name 	VARCHAR
-	•	url		TEXT
+
+<table>
+	<tr>
+		<td>id</td><td>INT</td>
+	</tr>
+	<tr>
+		<td>name</td><td>VARCHAR</td>
+	</tr>
+	<tr>
+		<td>url</td><td>TEXT</td>
+	</tr>
+</table>
 
 
 ##Classes
