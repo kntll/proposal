@@ -72,7 +72,7 @@ Class Staff
 		@staff = Staff.find([params[:id])	
 	end
 
-Class Programmes 
+class Programmes 
 
 	def show
 		@programmes = Programme.find(params[:id])
