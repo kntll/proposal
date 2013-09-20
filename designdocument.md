@@ -9,9 +9,10 @@
 **Users includes**
 
 <table>
-<td> id </td> 	INT |
-|-----|:-----:|
-| Courses_Shopping	|	INT (courses_id) |
+	<tr>
+		<td> id </td> 	<td> INT </td>
+	</tr>
+	<tr> Courses_Shopping </td> <td> INT (courses_id) </td>
 Courses_taking	 |	INT (courses_id) |
 
 </table>
