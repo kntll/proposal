@@ -134,5 +134,7 @@ class Programmes
 		@programmes = Programme.find(params[:id])
 	end
 
+<img scr
+
 	</body>
 </html>
